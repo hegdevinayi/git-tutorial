@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+conflict!
+:x
+
+=======
+feedback conflict
+>>>>>>> feedback
+
+kdjfskdj
