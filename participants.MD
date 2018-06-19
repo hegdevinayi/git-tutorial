@@ -1,3 +1,4 @@
-Sean Griesemer II
-Vinay I. Hegde
+Sean Griesemer
+Vinay Hegde
 Xia Hua
+Koushik Pal
